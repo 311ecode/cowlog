@@ -55,7 +55,7 @@
     "cowlog": "^1.6.62",
     "depcheck": "^0.9.2",
     "license-checker": "^25.0.1",
-    "mocha": "^7.0.1",
+    "mocha": "^7.1.0",
     "nyc": "^15.0.0",
     "require-a-lot": "^1.6.65",
     "require-dir": "^1.2.0",
