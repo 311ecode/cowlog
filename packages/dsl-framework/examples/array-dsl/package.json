@@ -59,7 +59,7 @@
     "nyc": "^15.0.0",
     "require-a-lot": "^1.6.65",
     "require-dir": "^1.2.0",
-    "standard": "^14.3.1"
+    "standard": "^14.3.4"
   },
   "files": [
     "src/**"
